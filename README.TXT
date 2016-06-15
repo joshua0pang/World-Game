@@ -2,7 +2,7 @@ Instructions:
 
 1. Go to http://www.bluej.org/
 
-2. Download Mac BlueJ
+2. Download BlueJ for your OS: Mac or Windows
 
 3. Install BlueJ when finished
 
