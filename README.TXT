@@ -1,5 +1,8 @@
 Instructions:
 
+0. Download Zip File of World Game from this page.
+See screenshots for further clarity.
+
 1. Go to http://www.bluej.org/
 
 2. Download BlueJ for your OS: Mac or Windows
